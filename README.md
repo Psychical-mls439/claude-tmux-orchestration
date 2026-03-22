@@ -341,7 +341,17 @@ This Gist is a **self-contained starter kit**. For the full system with adaptive
 - **Video:** [YouTube walkthrough](https://www.youtube.com/watch?v=Xr1BUVAQL2o) — see the system in action
 - **Free Guide:** [The 3-Pattern System for Claude Code](https://primeline.cc/guide) — memory, delegation, and knowledge graphs
 
-Built by [@PrimeLineAI](https://x.com/PrimeLineAI) — we share Claude Code patterns, automation workflows, and agent architectures.
+### Part of the PrimeLine Ecosystem
+
+| Tool | What It Does |
+|------|-------------|
+| [**Evolving Lite**](https://github.com/primeline-ai/evolving-lite) | Self-improving Claude Code plugin — memory, delegation, self-correction |
+| [**Kairn**](https://github.com/primeline-ai/kairn) | Persistent knowledge graph with context routing for AI |
+| **tmux Orchestration** | Parallel Claude Code sessions (you are here) |
+| [**UPF**](https://github.com/primeline-ai/universal-planning-framework) | 3-stage planning with adversarial hardening |
+| [**Quantum Lens**](https://github.com/primeline-ai/quantum-lens) | 7 cognitive lenses for multi-perspective analysis |
+
+Built by [@PrimeLineAI](https://x.com/PrimeLineAI) · [primeline.cc](https://primeline.cc)
 
 ---
 
