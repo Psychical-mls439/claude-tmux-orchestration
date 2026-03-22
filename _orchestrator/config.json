@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+
+  "intervals": {
+    "stuck_seconds": 30,
+    "normal_seconds": 120,
+    "idle_seconds": 300
+  },
+
+  "thresholds": {
+    "stale_cycles": 3,
+    "max_workers": 6,
+    "turns_for_tmux": 25
+  },
+
+  "rules": {
+    "enforce_code_review_after_turns": 30,
+    "max_cycles_without_progress": 5
+  },
+
+  "pruning": {
+    "max_age_days": 30,
+    "auto_prune": true,
+    "preserve_log_lines": 500
+  }
+}
