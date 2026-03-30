@@ -5,6 +5,9 @@
 [![Blog Post](https://img.shields.io/badge/Deep_Dive-primeline.cc-blue)](https://primeline.cc/blog/tmux-orchestration)
 [![Free Guide](https://img.shields.io/badge/Free_Guide-3_Pattern_System-green)](https://primeline.cc/guide)
 
+
+![claude-tmux-orchestration](assets/hero.png)
+
 ---
 
 ## The Problem: Claude Code Sub-Agents Hit Limits
